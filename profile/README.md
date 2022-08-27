@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/fem-readup">
-    <img src="./logo.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/111694568?s=200&v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">Fem Readup</h1>
