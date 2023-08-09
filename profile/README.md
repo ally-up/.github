@@ -1,10 +1,10 @@
 <br />
 <p align="center">
-  <a href="https://github.com/fem-readup">
+  <a href="https://github.com/ally-up">
     <img src="https://avatars.githubusercontent.com/u/111694568?s=200&v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">Fem Readup</h1>
+  <h1 align="center">Ally Up</h1>
 
   <p align="center">
     Meta search engine for feminist media and events
@@ -13,10 +13,10 @@
 
 ## About The Project
 
-The aim of Fem Readup is 
-* to [crawl websites](https://github.com/fem-readup/fem-readup-search-engine-crawler) for upcoming events
+The aim of Ally Up is 
+* to [crawl websites](https://github.com/ally-up/ally-up-search-engine-crawler) for upcoming events
 * let an editorial office update and add events
-* to [provide a meta search engine](https://github.com/fem-readup/fem-readup-search-engine-ng) to find events
+* to [provide a meta search engine](https://github.com/ally-up/ally-up-search-engine-ng) to find events
 
 ### Built With
 
@@ -27,7 +27,7 @@ The aim of Fem Readup is
 
 ## Roadmap
 
-See the open issues for [Python-based crawlers](https://github.com/fem-readup/fem-readup-search-engine-crawler/issues) and the [Angular-based frontend](https://github.com/fem-readup/fem-readup-search-engine-ng/issues).
+See the open issues for [Python-based crawlers](https://github.com/ally-up/ally-up-search-engine-crawler/issues) and the [Angular-based frontend](https://github.com/ally-up/ally-up-search-engine-ng/issues).
 
 ## License
 
